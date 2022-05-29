@@ -22,7 +22,7 @@ Support mobile portrait layout
 
 Use the /comments resources provided by JSONPlaceholder to render the comments of a post below it on click with some kind of animation
 
-=========================================================================================================
+=================================================================
 
 ## Section 2) Backend
 
@@ -33,5 +33,22 @@ In the previous (*Frontend*) you reached out the JSONPlaceholder API to perform 
 ### Challenge #2.1
 
 Implement your own backend using a language and libraries of your choices. The only requirement is that the backend needs to support CRUD operations and can seamlessy replace JSONPlaceholder API in the challenge of Section 1)
+
+
+### Challenge #2.2
+
+The requirements for this challenge are the exact same requirements of the previous challange (2.1), but we ask you to fullfill these requirements using the (https://firebase.google.com/)[Firebase] services provided by Google
+
+=================================================================
+
+## Section 3) Mobile
+
+### Challenge #3
+
+The requirements for this challenge are the exact same requirements of the Frontend challenge, but we ask you to fullfill these requirements through a mobile application.
+
+
+
+
 
 
