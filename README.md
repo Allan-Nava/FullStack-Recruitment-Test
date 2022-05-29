@@ -45,7 +45,7 @@ The requirements for this challenge are the exact same requirements of the previ
 
 ### Challenge #3
 
-The requirements for this challenge are the exact same requirements of the Frontend challenge, but we ask you to fullfill these requirements through a mobile application. For example you may choose [https://reactnative.dev/](React Native), [https://flutter.dev/](Flutter) or any other technology you feel comfortable developing mobile apps whith.
+The requirements for this challenge are the exact same requirements of the Frontend challenge, but we ask you to fullfill these requirements through a mobile application. For example you may choose [https://reactnative.dev/](React Native) , [https://flutter.dev/](Flutter) or any other technology you feel comfortable developing mobile apps whith.
 
 
 
