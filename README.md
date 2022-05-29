@@ -22,9 +22,9 @@ Support mobile portrait layout
 
 Use the /comments resources provided by JSONPlaceholder to render the comments of a post below it on click with some kind of animation
 
-========================================================================================================================================================
+=========================================================================================================
 
-## Section 2) Backend
+## Section 2) Backend
 
 #### Introduction 
 
