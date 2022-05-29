@@ -37,7 +37,7 @@ Implement your own backend using a language and libraries of your choices. The o
 
 ### Challenge #2.2
 
-The requirements for this challenge are the exact same requirements of the previous challange (2.1), but we ask you to fullfill these requirements using the [https://firebase.google.com/](Firebase) services provided by Google
+The requirements for this challenge are the exact same requirements of the previous challange (2.1), but we ask you to fullfill these requirements using the [Firebase](https://firebase.google.com/) services provided by Google
 
 =================================================================
 
@@ -45,7 +45,7 @@ The requirements for this challenge are the exact same requirements of the previ
 
 ### Challenge #3
 
-The requirements for this challenge are the exact same requirements of the Frontend challenge, but we ask you to fullfill these requirements through a mobile application. For example you may choose [https://reactnative.dev/](React Native) , [https://flutter.dev/](Flutter) or any other technology you feel comfortable developing mobile apps whith.
+The requirements for this challenge are the exact same requirements of the Frontend challenge, but we ask you to fullfill these requirements through a mobile application. For example you may choose [React Native](https://reactnative.dev/) , [Flutter](https://flutter.dev/) or any other technology you feel comfortable developing mobile apps whith.
 
 
 
