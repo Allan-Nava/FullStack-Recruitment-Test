@@ -30,3 +30,8 @@ Use the /comments resources provided by JSONPlaceholder to render the comments o
 
 In the previous (*Frontend*) you reached out the JSONPlaceholder API to perform CRUD operations on the posts. Now, we ask you to *replace JSONPlaceholder with your custom backend*
 
+### Challenge #2.1
+
+Implement your own backend using a language and libraries of your choices. The only requirement is that the backend needs to support CRUD operations and can seamlessy replace JSONPlaceholder API in the challenge of Section 1)
+
+
