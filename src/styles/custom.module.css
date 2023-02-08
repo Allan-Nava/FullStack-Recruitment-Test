@@ -1,0 +1,56 @@
+.wrapper {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 250%;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.postUl {
+  height: 350px;
+  overflow: auto;
+}
+
+.postDescription {
+  width: 500px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.btnView {
+  margin-top: -45px;
+  margin-right: 100px;
+}
+
+.btnDelete {
+  margin-top: -45px;
+}
+
+.btnEdit {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.titleWrapper {
+  margin-top: 15px;
+}
+
+.titleInput {
+  width: 500px;
+}
+
+.descriptionWrapper {
+  margin-top: 15px;
+}
+
+.descriptionInput {
+  height: 200px;
+  width: 500px;
+}
